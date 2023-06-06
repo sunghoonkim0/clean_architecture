@@ -1,4 +1,4 @@
-package buckpal.web;
+package buckpal.account;
 
 public class AccountController {
 }

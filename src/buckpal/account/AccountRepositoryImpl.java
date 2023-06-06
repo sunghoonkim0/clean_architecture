@@ -1,6 +1,6 @@
-package buckpal.persistence;
+package buckpal.account;
 
-import buckpal.domain.AccountRepository;
+import buckpal.account.AccountRepository;
 
 public class AccountRepositoryImpl implements AccountRepository {
 }

@@ -1,4 +1,4 @@
-package buckpal.domain;
+package buckpal.account;
 
 public class AccountService {
 }
